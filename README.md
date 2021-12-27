@@ -31,10 +31,8 @@ Patika Object Oriented Programming
 <p align="center">
   <img src="# ÖDEV: Online Film Sistemi UML
 <p align="center">
-  <img src="https://github.com/betul-yilmaz/Patika-Object-Oriented-Programming/blob/main/OnlineFilmSistemi.png" width="800" height="500" alt=".netProject">
-</p>
-
-<hr/>" width="800" height="500" alt=".netProject">
+  <img src="https://github.com/betul-yilmaz/Patika-Object-Oriented-Programming/blob/main/AsansorSimulasyon.jpg" width="800" height="500" alt=".netProject">
 </p>
 
 <hr/>
+
