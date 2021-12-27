@@ -14,3 +14,10 @@ Patika Object Oriented Programming
 </p>
 
 <hr/>
+
+# ÖDEV: Ucus Yonetim Sistemi UML
+<p align="center">
+  <img src="https://github.com/betul-yilmaz/Patika-Object-Oriented-Programming/blob/main/UcusYonetimSistemi.png" width="800" height="500" alt=".netProject">
+</p>
+
+<hr/>
