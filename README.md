@@ -14,7 +14,6 @@ Patika Object Oriented Programming
 </p>
 
 <hr/>
-
 # ÖDEV: Ucus Yonetim Sistemi UML
 <p align="center">
   <img src="https://github.com/betul-yilmaz/Patika-Object-Oriented-Programming/blob/main/UcusYonetimSistemi.png" width="800" height="500" alt=".netProject">
@@ -29,10 +28,10 @@ Patika Object Oriented Programming
 <hr/>
 # ÖDEV: Asansor Simulasyon UML
 <p align="center">
-  <img src="# ÖDEV: Online Film Sistemi UML
-<p align="center">
   <img src="https://github.com/betul-yilmaz/Patika-Object-Oriented-Programming/blob/main/AsansorSimulasyon.jpg" width="800" height="500" alt=".netProject">
 </p>
 
 <hr/>
+
+
 
